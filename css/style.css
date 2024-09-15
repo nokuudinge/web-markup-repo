@@ -11,5 +11,6 @@ h3 {
 p {
     font-size: 16px;
     }
-h1.emphasis {font-weight: bold;}
-h2.emphasis {}
+h1.emphasis {color: brown;}
+
+img {max-width: 200px;}
