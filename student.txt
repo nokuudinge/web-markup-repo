@@ -1,5 +1,4 @@
 Student: Noku Udinge (727573)
 Project: Fitness Guide Bijlmermeer
 
-GitHub Repository URL: https://github.com/<yourusername>/fitness-guide-bijlmermeer
-GitHub Pages URL: https://<yourusername>.github.io/fitness-guide-bijlmermeer/
+GitHub Repository URL: https://github.com/nokuudinge/Fitness-Guide-Bijlmermeer
